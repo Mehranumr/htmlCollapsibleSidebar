@@ -1,0 +1,2 @@
+# htmlCollapsibleSidebar
+Html Collapsible Sidebar
